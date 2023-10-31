@@ -20,5 +20,8 @@
   "type": "module",
   "dependencies": {
     "give-me-a-joke": "^0.5.1"
+  },
+  "devDependencies": {
+    "prettier": "^3.0.3"
   }
 }
