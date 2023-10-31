@@ -15,5 +15,6 @@
   "bugs": {
     "url": "https://github.com/maleneivy/joker/issues"
   },
-  "homepage": "https://github.com/maleneivy/joker#readme"
+  "homepage": "https://github.com/maleneivy/joker#readme",
+  "type": "module"
 }
