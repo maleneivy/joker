@@ -1,0 +1,24 @@
+{
+  "name": "mio-package",
+  "version": "0.1.0",
+  "description": "Application that tells jokes",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node src/js/joker.js",
+    "format": "prettier -w src/js/joker.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/maleneivy/joker.git"
+  },
+  "author": "Malene Ivy <maleneolsen_@hotmail.com>",
+  "license": "AGPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/maleneivy/joker/issues"
+  },
+  "homepage": "https://github.com/maleneivy/joker#readme",
+  "type": "module",
+  "dependencies": {
+    "give-me-a-joke": "^0.5.1"
+  }
+}
